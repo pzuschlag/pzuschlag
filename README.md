@@ -1,5 +1,5 @@
 # 👋🏼 Hi
-👩🏼‍🚀 I'm a software engineer and I've been working in the tech industry for around 10 years, I have experience in a variety of programming languages and platforms.<br>
+👩🏼‍🚀 I'm a software engineer, working in the tech industry for around 10 years, I have experience in a variety of programming languages and platforms.<br>
 🧑‍💻 Currently working at idealo as frontend developer.<br>
 🔭 Always looking for cool collaborations on different topics, where I can contribute or get the opportunity to learn and grow as a professional.<br>
 🌱 I'm currently learning all the aws stuff, that are needed these days.
